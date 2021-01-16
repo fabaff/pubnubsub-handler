@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name='pubnubsub-handler',
     version='1.0.9',
-    description='Handles the PubNub subscriptions between PubNub and Home-Assistant for Wink',
+    description='Handles the PubNub subscriptions between PubNub and Home Assistant for Wink',
     url='https://github.com/w1ll1am23/pubnubsub-handler',
     author='William Scanlon',
     py_modules=['pubnubsubhandler'],
